@@ -28,6 +28,7 @@ Go to your **Applications** folder and find the **League of Legends** applicatio
 
 ### Step 3
 It will show the contents of the folder, now navigate to the **Config** folder which is located in **Contents\LoL\Config** then paste the **Champions** folder
+
 ![screenshot](https://lukes-server.com/images/step_3.png)
 
 You will be prompted that there is already files in there, just click **replace**
