@@ -23,6 +23,7 @@ Download file http://leagueoflegendsmath.com/itemsets/Update.tar.bz2 and untar i
 ### Step 2
 Go to your **Applications** folder and find the **League of Legends** application and right click and select **Show Package Contents**
 
+
 ![screenshot](https://lukes-server.com/images/step_2.png)
 
 ### Step 3
