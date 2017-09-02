@@ -1,5 +1,7 @@
-basic bash script to install itemsets from http://www.leagueoflegendsmath.com/itemsetcreator.html for OSX/Mac League of Legends 
+basic bash script to install itemsets from http://www.leagueoflegendsmath.com/itemsetcreator.html for OSX/Mac League of Legends.
+This script will install the latest item sets into your league of legends for you, have also included manually install instructions if you don’t want to use the script.
 
+***(make sure League of Legends is not open)***
 
 Open up **terminal** and copy & paste the following, and click Y to install.
 ```
@@ -8,8 +10,11 @@ bash <(curl -Ls https://raw.githubusercontent.com/lukesUbuntu/itemsetinstaller/m
 ![screenshot](https://lukes-server.com/images/bashinstall.png)
 
 
-Otherwise you can do manual install from http://leagueoflegendsmath.com here is how.
-(make sure League of Legends is not open)
+
+
+
+
+
 
 Manual Install  
 ===================
@@ -34,3 +39,4 @@ It will show the contents of the folder, now navigate to the **Config** folder w
 You will be prompted that there is already files in there, just click **replace**
 
 Now your good to go!!!, load up League of Legends and you should see all the new item sets in game.
+
