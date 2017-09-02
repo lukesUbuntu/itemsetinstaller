@@ -1,6 +1,6 @@
 #!/bin/bash
 #basic bash script to install itemsets from http://leagueoflegendsmath.com/ for OSX/Mac
-#run $ bash <(curl -Ls https://raw.githubusercontent.com/lukesUbuntu/lolitemsetscript/master/itemsetinstaller.sh)
+#run $ bash <(curl -Ls https://raw.githubusercontent.com/lukesUbuntu/itemsetinstaller/master/itemsetinstaller.sh)
 ITEMSFILE='http://leagueoflegendsmath.com/itemsets/Update.tar.bz2'
 LOLPATH=$(find /Applications/League* -type d | grep -m 1 'LoL/Config')
 process_install()
