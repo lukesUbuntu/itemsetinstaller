@@ -1,4 +1,4 @@
-basic bash script to install itemsets from http://www.leagueoflegendsmath.com/itemsetcreator.html for OSX/Mac League of Legends.
+basic bash script to install itemsets from http://lolmath.net/itemsetcreator.html for OSX/Mac League of Legends.
 This script will install the latest item sets into your league of legends for you, have also included manually install instructions if you don’t want to use the script.
 
 ***(make sure League of Legends is not open)***
@@ -21,7 +21,7 @@ Manual Install
 
 ### Step 1
 
-Download file http://leagueoflegendsmath.com/itemsets/Update.tar.bz2 and untar it will uncompress a **Champions** folder copy this folder 
+Download file http://lolmath.net/itemsets/Update.tar.bz2 and untar it will uncompress a **Champions** folder copy this folder 
 
 ![screenshot](https://lukes-server.com/images/step_1.png)
 
